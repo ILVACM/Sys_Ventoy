@@ -1,0 +1,457 @@
+[2024/03/02 18:51:46.404] 
+##################################################################################
+############################## Ventoy2DiskX86  #############################
+##################################################################################
+[2024/03/02 18:51:46.404] Current Directory <D:\Ventoy\ventoy-1.0.97>
+[2024/03/02 18:51:46.404] Exe file path <D:\Ventoy\ventoy-1.0.97\Ventoy2Disk.exe>
+[2024/03/02 18:51:46.404] Current directory check OK.
+[2024/03/02 18:51:46.405] Current directory:<D:\Ventoy\ventoy-1.0.97>
+[2024/03/02 18:51:46.411] ######### Current Ventoy Version: Ventoy2DiskX86 1.0.97 ########
+[2024/03/02 18:51:46.422] id=11128/5428
+[2024/03/02 18:51:46.425] PPath:<C:\Windows\explorer.exe>
+[2024/03/02 18:51:46.432] PSize:<5308576 5184KB>
+[2024/03/02 18:51:46.441] Lunch main process 0
+[2024/03/02 18:51:46.447] Control Flag: 0 1 1
+[2024/03/02 18:51:46.456] Windows Version: <<Windows 10 (Unknown Edition), 64-bit (Build 19044.3031)>>
+[2024/03/02 18:51:46.462] 
+===================== Enum All PhyDrives =====================
+[2024/03/02 18:51:46.471] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2024/03/02 18:51:46.476] RegQueryValueExA <Count> ret:0  Size:4 Value:4
+[2024/03/02 18:51:46.483] GetPhysicalDriveCount: 4
+[2024/03/02 18:51:46.490] Logical Drives: 0x210013c
+[2024/03/02 18:51:46.498] LogicalDrive:\\.\C: PhyDrive:0 Num:1 Offset:676331520 ExtentLength:128857407488
+[2024/03/02 18:51:46.506] C --> 0
+[2024/03/02 18:51:46.515] LogicalDrive:\\.\D: PhyDrive:0 Num:1 Offset:129533739008 ExtentLength:830663032832
+[2024/03/02 18:51:46.522] D --> 0
+[2024/03/02 18:51:46.531] LogicalDrive:\\.\E: PhyDrive:2 Num:1 Offset:0 ExtentLength:0
+[2024/03/02 18:51:46.536] E --> 2
+[2024/03/02 18:51:46.545] LogicalDrive:\\.\F: PhyDrive:3 Num:1 Offset:1048576 ExtentLength:52922428416
+[2024/03/02 18:51:46.552] F --> 3
+[2024/03/02 18:51:46.558] LogicalDrive:\\.\I: PhyDrive:3 Num:1 Offset:52923478016 ExtentLength:8600670208
+[2024/03/02 18:51:46.564] I --> 3
+[2024/03/02 18:51:46.570] DeviceIoControl IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS failed \\.\U:, error:1
+[2024/03/02 18:51:46.579] U --> -1
+[2024/03/02 18:51:46.586] LogicalDrive:\\.\Z: PhyDrive:1 Num:1 Offset:32256 ExtentLength:8597242368
+[2024/03/02 18:51:46.592] Z --> 1
+[2024/03/02 18:51:46.599] Create file Handle:00000140 \\.\PhysicalDrive0 status:0
+[2024/03/02 18:51:46.605] PHYSICALDRIVE0 size 960197124096 bytes
+[2024/03/02 18:51:46.611] Create file Handle:FFFFFFFF \\.\PhysicalDrive1 status:32
+[2024/03/02 18:51:46.619] Create file Handle:00000138 \\.\PhysicalDrive2 status:0
+[2024/03/02 18:51:46.625] DeviceIoControl IOCTL_DISK_GET_LENGTH_INFO failed error:21
+[2024/03/02 18:51:46.630] Create file Handle:FFFFFFFF \\.\PhysicalDrive3 status:32
+[2024/03/02 18:51:46.638] PhyDrv:0 BusType:SATA Removable:0 Size:960GB(960197124096) Sector:512/512 Name: KIOXIA-EXCERIA SATA SSD
+[2024/03/02 18:51:46.646] LogicalDrive:\\.\C: PhyDrive:0 Num:1 Offset:676331520 ExtentLength:128857407488
+[2024/03/02 18:51:46.653] Logical Drive:C  ===> PhyDrive:0
+[2024/03/02 18:51:46.662] LogicalDrive:\\.\D: PhyDrive:0 Num:1 Offset:129533739008 ExtentLength:830663032832
+[2024/03/02 18:51:46.669] Logical Drive:D  ===> PhyDrive:0
+[2024/03/02 18:51:46.679] LogicalDrive:\\.\E: PhyDrive:2 Num:1 Offset:0 ExtentLength:0
+[2024/03/02 18:51:46.683] Logical Drive:E  ===> PhyDrive:2
+[2024/03/02 18:51:46.690] LogicalDrive:\\.\F: PhyDrive:3 Num:1 Offset:1048576 ExtentLength:52922428416
+[2024/03/02 18:51:46.699] Logical Drive:F  ===> PhyDrive:3
+[2024/03/02 18:51:46.707] LogicalDrive:\\.\I: PhyDrive:3 Num:1 Offset:52923478016 ExtentLength:8600670208
+[2024/03/02 18:51:46.715] Logical Drive:I  ===> PhyDrive:3
+[2024/03/02 18:51:46.722] DeviceIoControl IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS failed \\.\U:, error:1
+[2024/03/02 18:51:46.728] Logical Drive:U  ===> PhyDrive:-1
+[2024/03/02 18:51:46.734] LogicalDrive:\\.\Z: PhyDrive:1 Num:1 Offset:32256 ExtentLength:8597242368
+[2024/03/02 18:51:46.741] Logical Drive:Z  ===> PhyDrive:1
+[2024/03/02 18:51:46.747] < KIOXIA-EXCERIA SATA SSD> is filtered for not USB type.
+[2024/03/02 18:51:46.794] Load languages from json file ...
+[2024/03/02 18:51:46.795] language json file len:275850 json parse:0
+[2024/03/02 18:51:46.803] Total 51 languages ...
+[2024/03/02 18:51:46.924] Courier New font <C:\Windows\Fonts\couri.ttf> exist OK.
+[2024/03/02 18:51:46.925] system_dir=<C:\Windows\system32>
+[2024/03/02 18:51:46.933] sysnative_dir=<C:\Windows\Sysnative>
+[2024/03/02 18:51:46.964] LoadLibrary shell32.dll.mui SUCCESS
+[2024/03/02 18:51:46.964] SetAlertPromptHook SUCCESS
+[2024/03/02 18:52:27.721] 
+##################################################################################
+############################## Ventoy2DiskX86  #############################
+##################################################################################
+[2024/03/02 18:52:27.721] Current Directory <D:\Ventoy\ventoy-1.0.97>
+[2024/03/02 18:52:27.721] Exe file path <D:\Ventoy\ventoy-1.0.97\Ventoy2Disk.exe>
+[2024/03/02 18:52:27.721] Current directory check OK.
+[2024/03/02 18:52:27.721] Current directory:<D:\Ventoy\ventoy-1.0.97>
+[2024/03/02 18:52:27.731] ######### Current Ventoy Version: Ventoy2DiskX86 1.0.97 ########
+[2024/03/02 18:52:27.744] id=12212/5428
+[2024/03/02 18:52:27.748] PPath:<C:\Windows\explorer.exe>
+[2024/03/02 18:52:27.754] PSize:<5308576 5184KB>
+[2024/03/02 18:52:27.764] Lunch main process 0
+[2024/03/02 18:52:27.772] Control Flag: 0 1 1
+[2024/03/02 18:52:27.780] Set Ventoy FS ClusterSize 0
+[2024/03/02 18:52:27.789] Windows Version: <<Windows 10 (Unknown Edition), 64-bit (Build 19044.3031)>>
+[2024/03/02 18:52:27.796] 
+===================== Enum All PhyDrives =====================
+[2024/03/02 18:52:27.803] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2024/03/02 18:52:27.812] RegQueryValueExA <Count> ret:0  Size:4 Value:4
+[2024/03/02 18:52:27.819] GetPhysicalDriveCount: 4
+[2024/03/02 18:52:27.826] Logical Drives: 0x210013c
+[2024/03/02 18:52:27.833] LogicalDrive:\\.\C: PhyDrive:0 Num:1 Offset:676331520 ExtentLength:128857407488
+[2024/03/02 18:52:27.840] C --> 0
+[2024/03/02 18:52:27.847] LogicalDrive:\\.\D: PhyDrive:0 Num:1 Offset:129533739008 ExtentLength:830663032832
+[2024/03/02 18:52:27.855] D --> 0
+[2024/03/02 18:52:27.865] LogicalDrive:\\.\E: PhyDrive:2 Num:1 Offset:0 ExtentLength:0
+[2024/03/02 18:52:27.870] E --> 2
+[2024/03/02 18:52:27.877] LogicalDrive:\\.\F: PhyDrive:3 Num:1 Offset:1048576 ExtentLength:52922428416
+[2024/03/02 18:52:27.884] F --> 3
+[2024/03/02 18:52:27.891] LogicalDrive:\\.\I: PhyDrive:3 Num:1 Offset:52923478016 ExtentLength:8600670208
+[2024/03/02 18:52:27.908] I --> 3
+[2024/03/02 18:52:27.919] DeviceIoControl IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS failed \\.\U:, error:1
+[2024/03/02 18:52:27.926] U --> -1
+[2024/03/02 18:52:27.933] LogicalDrive:\\.\Z: PhyDrive:1 Num:1 Offset:32256 ExtentLength:8597242368
+[2024/03/02 18:52:27.940] Z --> 1
+[2024/03/02 18:52:27.948] Create file Handle:00000120 \\.\PhysicalDrive0 status:0
+[2024/03/02 18:52:27.955] PHYSICALDRIVE0 size 960197124096 bytes
+[2024/03/02 18:52:27.963] Create file Handle:00000120 \\.\PhysicalDrive1 status:0
+[2024/03/02 18:52:27.970] PHYSICALDRIVE1 size 8597274624 bytes
+[2024/03/02 18:52:27.977] DeviceIoControl3 error:87 dwBytes:107
+[2024/03/02 18:52:27.985] Create file Handle:00000130 \\.\PhysicalDrive2 status:0
+[2024/03/02 18:52:27.992] DeviceIoControl IOCTL_DISK_GET_LENGTH_INFO failed error:21
+[2024/03/02 18:52:28.009] Create file Handle:00000130 \\.\PhysicalDrive3 status:0
+[2024/03/02 18:52:28.009] PHYSICALDRIVE3 size 61524148224 bytes
+[2024/03/02 18:52:28.017] PhyDrv:0 BusType:SATA Removable:0 Size:960GB(960197124096) Sector:512/512 Name: KIOXIA-EXCERIA SATA SSD
+[2024/03/02 18:52:28.024] PhyDrv:1 BusType:SCSI Removable:0 Size:8GB(8597274624) Sector:0/0 Name:ieung Ultra RAMDisk
+[2024/03/02 18:52:28.031] PhyDrv:3 BusType:USB  Removable:1 Size:64GB(61524148224) Sector:512/512 Name:USB SanDisk 3.2Gen1
+[2024/03/02 18:52:28.039] LogicalDrive:\\.\C: PhyDrive:0 Num:1 Offset:676331520 ExtentLength:128857407488
+[2024/03/02 18:52:28.046] Logical Drive:C  ===> PhyDrive:0
+[2024/03/02 18:52:28.054] LogicalDrive:\\.\D: PhyDrive:0 Num:1 Offset:129533739008 ExtentLength:830663032832
+[2024/03/02 18:52:28.061] Logical Drive:D  ===> PhyDrive:0
+[2024/03/02 18:52:28.071] LogicalDrive:\\.\E: PhyDrive:2 Num:1 Offset:0 ExtentLength:0
+[2024/03/02 18:52:28.076] Logical Drive:E  ===> PhyDrive:2
+[2024/03/02 18:52:28.083] LogicalDrive:\\.\F: PhyDrive:3 Num:1 Offset:1048576 ExtentLength:52922428416
+[2024/03/02 18:52:28.090] Logical Drive:F  ===> PhyDrive:3
+[2024/03/02 18:52:28.099] LogicalDrive:\\.\I: PhyDrive:3 Num:1 Offset:52923478016 ExtentLength:8600670208
+[2024/03/02 18:52:28.107] Logical Drive:I  ===> PhyDrive:3
+[2024/03/02 18:52:28.114] DeviceIoControl IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS failed \\.\U:, error:1
+[2024/03/02 18:52:28.121] Logical Drive:U  ===> PhyDrive:-1
+[2024/03/02 18:52:28.129] LogicalDrive:\\.\Z: PhyDrive:1 Num:1 Offset:32256 ExtentLength:8597242368
+[2024/03/02 18:52:28.136] Logical Drive:Z  ===> PhyDrive:1
+[2024/03/02 18:52:28.151] Create file Handle:00000120 \\.\PhysicalDrive3 status:0
+[2024/03/02 18:52:28.152] Read MBR Ret:1 Size:512 code:183
+[2024/03/02 18:52:28.160] =========== Disk3 MBR Partition 1 ============
+[2024/03/02 18:52:28.167] PartTbl.Active = 0x80
+[2024/03/02 18:52:28.173] PartTbl.FsFlag = 0xc
+[2024/03/02 18:52:28.180] PartTbl.StartSectorId = 2048
+[2024/03/02 18:52:28.187] PartTbl.SectorCount = 103364118
+[2024/03/02 18:52:28.195] PartTbl.StartHead = 32
+[2024/03/02 18:52:28.201] PartTbl.StartSector = 33
+[2024/03/02 18:52:28.208] PartTbl.StartCylinder = 0
+[2024/03/02 18:52:28.215] PartTbl.EndHead = 254
+[2024/03/02 18:52:28.223] PartTbl.EndSector = 63
+[2024/03/02 18:52:28.233] PartTbl.EndCylinder = 1023
+[2024/03/02 18:52:28.241] =========== Disk3 MBR Partition 2 ============
+[2024/03/02 18:52:28.248] PartTbl.Active = 0x0
+[2024/03/02 18:52:28.255] PartTbl.FsFlag = 0xc
+[2024/03/02 18:52:28.262] PartTbl.StartSectorId = 103366168
+[2024/03/02 18:52:28.269] PartTbl.SectorCount = 16798184
+[2024/03/02 18:52:28.276] PartTbl.StartHead = 254
+[2024/03/02 18:52:28.283] PartTbl.StartSector = 63
+[2024/03/02 18:52:28.291] PartTbl.StartCylinder = 1023
+[2024/03/02 18:52:28.298] PartTbl.EndHead = 254
+[2024/03/02 18:52:28.305] PartTbl.EndSector = 63
+[2024/03/02 18:52:28.312] PartTbl.EndCylinder = 1023
+[2024/03/02 18:52:28.319] =========== Disk3 MBR Partition 3 ============
+[2024/03/02 18:52:28.327] PartTbl.Active = 0x0
+[2024/03/02 18:52:28.334] PartTbl.FsFlag = 0x0
+[2024/03/02 18:52:28.341] PartTbl.StartSectorId = 0
+[2024/03/02 18:52:28.348] PartTbl.SectorCount = 0
+[2024/03/02 18:52:28.355] PartTbl.StartHead = 0
+[2024/03/02 18:52:28.363] PartTbl.StartSector = 0
+[2024/03/02 18:52:28.370] PartTbl.StartCylinder = 0
+[2024/03/02 18:52:28.377] PartTbl.EndHead = 0
+[2024/03/02 18:52:28.384] PartTbl.EndSector = 0
+[2024/03/02 18:52:28.391] PartTbl.EndCylinder = 0
+[2024/03/02 18:52:28.398] =========== Disk3 MBR Partition 4 ============
+[2024/03/02 18:52:28.406] PartTbl.Active = 0x0
+[2024/03/02 18:52:28.413] PartTbl.FsFlag = 0x0
+[2024/03/02 18:52:28.421] PartTbl.StartSectorId = 0
+[2024/03/02 18:52:28.428] PartTbl.SectorCount = 0
+[2024/03/02 18:52:28.435] PartTbl.StartHead = 0
+[2024/03/02 18:52:28.442] PartTbl.StartSector = 0
+[2024/03/02 18:52:28.450] PartTbl.StartCylinder = 0
+[2024/03/02 18:52:28.457] PartTbl.EndHead = 0
+[2024/03/02 18:52:28.465] PartTbl.EndSector = 0
+[2024/03/02 18:52:28.472] PartTbl.EndCylinder = 0
+[2024/03/02 18:52:28.479] Part2 not match [0xc 0xef] [103366168 103366166] [16798184 65536]
+[2024/03/02 18:52:28.486] < KIOXIA-EXCERIA SATA SSD> is filtered for not USB type.
+[2024/03/02 18:52:28.493] <ieung Ultra RAMDisk> is filtered for not USB type.
+[2024/03/02 18:52:28.537] Load languages from json file ...
+[2024/03/02 18:52:28.538] language json file len:275850 json parse:0
+[2024/03/02 18:52:28.547] Total 51 languages ...
+[2024/03/02 18:52:28.610] Not ventoy disk, set secure boot option
+[2024/03/02 18:52:28.637] Courier New font <C:\Windows\Fonts\couri.ttf> exist OK.
+[2024/03/02 18:52:28.638] system_dir=<C:\Windows\system32>
+[2024/03/02 18:52:28.648] sysnative_dir=<C:\Windows\Sysnative>
+[2024/03/02 18:52:28.658] LoadLibrary shell32.dll.mui SUCCESS
+[2024/03/02 18:52:28.668] SetAlertPromptHook SUCCESS
+[2024/03/02 18:52:42.472] Not ventoy disk, set secure boot option
+[2024/03/02 18:52:44.339] #### Now Refresh PhyDrive ####
+[2024/03/02 18:52:44.339] Current combox selection is PhyDrive3
+[2024/03/02 18:52:44.347] 
+===================== Enum All PhyDrives =====================
+[2024/03/02 18:52:44.355] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2024/03/02 18:52:44.362] RegQueryValueExA <Count> ret:0  Size:4 Value:4
+[2024/03/02 18:52:44.369] GetPhysicalDriveCount: 4
+[2024/03/02 18:52:44.376] Logical Drives: 0x210013c
+[2024/03/02 18:52:44.383] LogicalDrive:\\.\C: PhyDrive:0 Num:1 Offset:676331520 ExtentLength:128857407488
+[2024/03/02 18:52:44.389] C --> 0
+[2024/03/02 18:52:44.396] LogicalDrive:\\.\D: PhyDrive:0 Num:1 Offset:129533739008 ExtentLength:830663032832
+[2024/03/02 18:52:44.403] D --> 0
+[2024/03/02 18:52:44.413] LogicalDrive:\\.\E: PhyDrive:2 Num:1 Offset:0 ExtentLength:0
+[2024/03/02 18:52:44.417] E --> 2
+[2024/03/02 18:52:44.425] LogicalDrive:\\.\F: PhyDrive:3 Num:1 Offset:1048576 ExtentLength:52922428416
+[2024/03/02 18:52:44.431] F --> 3
+[2024/03/02 18:52:44.439] LogicalDrive:\\.\I: PhyDrive:3 Num:1 Offset:52923478016 ExtentLength:8600670208
+[2024/03/02 18:52:44.445] I --> 3
+[2024/03/02 18:52:44.452] DeviceIoControl IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS failed \\.\U:, error:1
+[2024/03/02 18:52:44.459] U --> -1
+[2024/03/02 18:52:44.466] LogicalDrive:\\.\Z: PhyDrive:1 Num:1 Offset:32256 ExtentLength:8597242368
+[2024/03/02 18:52:44.473] Z --> 1
+[2024/03/02 18:52:44.480] Create file Handle:000002B8 \\.\PhysicalDrive0 status:0
+[2024/03/02 18:52:44.487] PHYSICALDRIVE0 size 960197124096 bytes
+[2024/03/02 18:52:44.494] Create file Handle:000002B8 \\.\PhysicalDrive1 status:0
+[2024/03/02 18:52:44.501] PHYSICALDRIVE1 size 8597274624 bytes
+[2024/03/02 18:52:44.508] DeviceIoControl3 error:87 dwBytes:107
+[2024/03/02 18:52:44.516] Create file Handle:000002B8 \\.\PhysicalDrive2 status:0
+[2024/03/02 18:52:44.523] DeviceIoControl IOCTL_DISK_GET_LENGTH_INFO failed error:21
+[2024/03/02 18:52:44.537] Create file Handle:000002B8 \\.\PhysicalDrive3 status:0
+[2024/03/02 18:52:44.537] PHYSICALDRIVE3 size 61524148224 bytes
+[2024/03/02 18:52:44.545] PhyDrv:0 BusType:SATA Removable:0 Size:960GB(960197124096) Sector:512/512 Name: KIOXIA-EXCERIA SATA SSD
+[2024/03/02 18:52:44.552] PhyDrv:1 BusType:SCSI Removable:0 Size:8GB(8597274624) Sector:0/0 Name:ieung Ultra RAMDisk
+[2024/03/02 18:52:44.559] PhyDrv:3 BusType:USB  Removable:1 Size:64GB(61524148224) Sector:512/512 Name:USB SanDisk 3.2Gen1
+[2024/03/02 18:52:44.566] LogicalDrive:\\.\C: PhyDrive:0 Num:1 Offset:676331520 ExtentLength:128857407488
+[2024/03/02 18:52:44.573] Logical Drive:C  ===> PhyDrive:0
+[2024/03/02 18:52:44.580] LogicalDrive:\\.\D: PhyDrive:0 Num:1 Offset:129533739008 ExtentLength:830663032832
+[2024/03/02 18:52:44.586] Logical Drive:D  ===> PhyDrive:0
+[2024/03/02 18:52:44.596] LogicalDrive:\\.\E: PhyDrive:2 Num:1 Offset:0 ExtentLength:0
+[2024/03/02 18:52:44.601] Logical Drive:E  ===> PhyDrive:2
+[2024/03/02 18:52:44.608] LogicalDrive:\\.\F: PhyDrive:3 Num:1 Offset:1048576 ExtentLength:52922428416
+[2024/03/02 18:52:44.614] Logical Drive:F  ===> PhyDrive:3
+[2024/03/02 18:52:44.622] LogicalDrive:\\.\I: PhyDrive:3 Num:1 Offset:52923478016 ExtentLength:8600670208
+[2024/03/02 18:52:44.628] Logical Drive:I  ===> PhyDrive:3
+[2024/03/02 18:52:44.635] DeviceIoControl IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS failed \\.\U:, error:1
+[2024/03/02 18:52:44.642] Logical Drive:U  ===> PhyDrive:-1
+[2024/03/02 18:52:44.649] LogicalDrive:\\.\Z: PhyDrive:1 Num:1 Offset:32256 ExtentLength:8597242368
+[2024/03/02 18:52:44.655] Logical Drive:Z  ===> PhyDrive:1
+[2024/03/02 18:52:44.668] Create file Handle:000002D0 \\.\PhysicalDrive3 status:0
+[2024/03/02 18:52:44.669] Read MBR Ret:1 Size:512 code:183
+[2024/03/02 18:52:44.677] =========== Disk3 MBR Partition 1 ============
+[2024/03/02 18:52:44.684] PartTbl.Active = 0x80
+[2024/03/02 18:52:44.690] PartTbl.FsFlag = 0xc
+[2024/03/02 18:52:44.696] PartTbl.StartSectorId = 2048
+[2024/03/02 18:52:44.703] PartTbl.SectorCount = 103364118
+[2024/03/02 18:52:44.710] PartTbl.StartHead = 32
+[2024/03/02 18:52:44.717] PartTbl.StartSector = 33
+[2024/03/02 18:52:44.724] PartTbl.StartCylinder = 0
+[2024/03/02 18:52:44.731] PartTbl.EndHead = 254
+[2024/03/02 18:52:44.738] PartTbl.EndSector = 63
+[2024/03/02 18:52:44.744] PartTbl.EndCylinder = 1023
+[2024/03/02 18:52:44.751] =========== Disk3 MBR Partition 2 ============
+[2024/03/02 18:52:44.757] PartTbl.Active = 0x0
+[2024/03/02 18:52:44.764] PartTbl.FsFlag = 0xc
+[2024/03/02 18:52:44.770] PartTbl.StartSectorId = 103366168
+[2024/03/02 18:52:44.777] PartTbl.SectorCount = 16798184
+[2024/03/02 18:52:44.783] PartTbl.StartHead = 254
+[2024/03/02 18:52:44.790] PartTbl.StartSector = 63
+[2024/03/02 18:52:44.796] PartTbl.StartCylinder = 1023
+[2024/03/02 18:52:44.803] PartTbl.EndHead = 254
+[2024/03/02 18:52:44.809] PartTbl.EndSector = 63
+[2024/03/02 18:52:44.816] PartTbl.EndCylinder = 1023
+[2024/03/02 18:52:44.823] =========== Disk3 MBR Partition 3 ============
+[2024/03/02 18:52:44.829] PartTbl.Active = 0x0
+[2024/03/02 18:52:44.836] PartTbl.FsFlag = 0x0
+[2024/03/02 18:52:44.842] PartTbl.StartSectorId = 0
+[2024/03/02 18:52:44.849] PartTbl.SectorCount = 0
+[2024/03/02 18:52:44.855] PartTbl.StartHead = 0
+[2024/03/02 18:52:44.862] PartTbl.StartSector = 0
+[2024/03/02 18:52:44.869] PartTbl.StartCylinder = 0
+[2024/03/02 18:52:44.875] PartTbl.EndHead = 0
+[2024/03/02 18:52:44.882] PartTbl.EndSector = 0
+[2024/03/02 18:52:44.889] PartTbl.EndCylinder = 0
+[2024/03/02 18:52:44.895] =========== Disk3 MBR Partition 4 ============
+[2024/03/02 18:52:44.902] PartTbl.Active = 0x0
+[2024/03/02 18:52:44.908] PartTbl.FsFlag = 0x0
+[2024/03/02 18:52:44.915] PartTbl.StartSectorId = 0
+[2024/03/02 18:52:44.922] PartTbl.SectorCount = 0
+[2024/03/02 18:52:44.928] PartTbl.StartHead = 0
+[2024/03/02 18:52:44.935] PartTbl.StartSector = 0
+[2024/03/02 18:52:44.941] PartTbl.StartCylinder = 0
+[2024/03/02 18:52:44.948] PartTbl.EndHead = 0
+[2024/03/02 18:52:44.954] PartTbl.EndSector = 0
+[2024/03/02 18:52:44.961] PartTbl.EndCylinder = 0
+[2024/03/02 18:52:44.967] Part2 not match [0xc 0xef] [103366168 103366166] [16798184 65536]
+[2024/03/02 18:52:44.974] < KIOXIA-EXCERIA SATA SSD> is filtered for not USB type.
+[2024/03/02 18:52:44.980] <ieung Ultra RAMDisk> is filtered for not USB type.
+[2024/03/02 18:52:44.991] Not ventoy disk, set secure boot option
+[2024/03/06 13:56:13.659] 
+##################################################################################
+############################## Ventoy2DiskX86  #############################
+##################################################################################
+[2024/03/06 13:56:13.659] Current Directory <D:\Sys_Ventoy\ventoy-1.0.97>
+[2024/03/06 13:56:13.659] Exe file path <D:\Sys_Ventoy\ventoy-1.0.97\Ventoy2Disk.exe>
+[2024/03/06 13:56:13.659] Current directory check OK.
+[2024/03/06 13:56:13.670] Current directory:<D:\Sys_Ventoy\ventoy-1.0.97>
+[2024/03/06 13:56:13.678] ######### Current Ventoy Version: Ventoy2DiskX86 1.0.97 ########
+[2024/03/06 13:56:13.686] id=3556/5936
+[2024/03/06 13:56:13.690] PPath:<C:\Windows\explorer.exe>
+[2024/03/06 13:56:13.698] PSize:<5308576 5184KB>
+[2024/03/06 13:56:13.705] Lunch main process 0
+[2024/03/06 13:56:13.719] Control Flag: 0 1 1
+[2024/03/06 13:56:13.719] Set Ventoy FS ClusterSize 0
+[2024/03/06 13:56:13.731] Windows Version: <<Windows 10 (Unknown Edition), 64-bit (Build 19044.3031)>>
+[2024/03/06 13:56:13.735] 
+===================== Enum All PhyDrives =====================
+[2024/03/06 13:56:13.743] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2024/03/06 13:56:13.751] RegQueryValueExA <Count> ret:0  Size:4 Value:4
+[2024/03/06 13:56:13.759] GetPhysicalDriveCount: 4
+[2024/03/06 13:56:13.767] Logical Drives: 0x200003c
+[2024/03/06 13:56:13.775] LogicalDrive:\\.\C: PhyDrive:0 Num:1 Offset:676331520 ExtentLength:128857407488
+[2024/03/06 13:56:13.783] C --> 0
+[2024/03/06 13:56:13.791] LogicalDrive:\\.\D: PhyDrive:0 Num:1 Offset:129533739008 ExtentLength:615919784960
+[2024/03/06 13:56:13.799] D --> 0
+[2024/03/06 13:56:13.845] LogicalDrive:\\.\E: PhyDrive:2 Num:1 Offset:1048576 ExtentLength:15366881280
+[2024/03/06 13:56:13.845] E --> 2
+[2024/03/06 13:56:13.857] LogicalDrive:\\.\F: PhyDrive:3 Num:1 Offset:16384 ExtentLength:15401467904
+[2024/03/06 13:56:13.861] F --> 3
+[2024/03/06 13:56:13.869] LogicalDrive:\\.\Z: PhyDrive:1 Num:1 Offset:32256 ExtentLength:8597242368
+[2024/03/06 13:56:13.877] Z --> 1
+[2024/03/06 13:56:13.885] Create file Handle:00000138 \\.\PhysicalDrive0 status:0
+[2024/03/06 13:56:13.893] PHYSICALDRIVE0 size 960197124096 bytes
+[2024/03/06 13:56:13.901] Create file Handle:00000138 \\.\PhysicalDrive1 status:0
+[2024/03/06 13:56:13.909] PHYSICALDRIVE1 size 8597274624 bytes
+[2024/03/06 13:56:13.916] DeviceIoControl3 error:87 dwBytes:107
+[2024/03/06 13:56:13.955] Create file Handle:00000134 \\.\PhysicalDrive2 status:0
+[2024/03/06 13:56:13.963] PHYSICALDRIVE2 size 15401484288 bytes
+[2024/03/06 13:56:13.975] Create file Handle:00000110 \\.\PhysicalDrive3 status:0
+[2024/03/06 13:56:13.975] PHYSICALDRIVE3 size 15401484288 bytes
+[2024/03/06 13:56:13.983] PhyDrv:0 BusType:SATA Removable:0 Size:960GB(960197124096) Sector:512/512 Name: KIOXIA-EXCERIA SATA SSD
+[2024/03/06 13:56:13.991] PhyDrv:1 BusType:SCSI Removable:0 Size:8GB(8597274624) Sector:0/0 Name:ieung Ultra RAMDisk
+[2024/03/06 13:56:13.999] PhyDrv:2 BusType:USB  Removable:1 Size:16GB(15401484288) Sector:512/512 Name:USB SanDisk 3.2Gen1
+[2024/03/06 13:56:14.007] PhyDrv:3 BusType:USB  Removable:1 Size:16GB(15401484288) Sector:512/512 Name:USB SanDisk 3.2Gen1
+[2024/03/06 13:56:14.016] LogicalDrive:\\.\C: PhyDrive:0 Num:1 Offset:676331520 ExtentLength:128857407488
+[2024/03/06 13:56:14.024] Logical Drive:C  ===> PhyDrive:0
+[2024/03/06 13:56:14.032] LogicalDrive:\\.\D: PhyDrive:0 Num:1 Offset:129533739008 ExtentLength:615919784960
+[2024/03/06 13:56:14.040] Logical Drive:D  ===> PhyDrive:0
+[2024/03/06 13:56:14.084] LogicalDrive:\\.\E: PhyDrive:2 Num:1 Offset:1048576 ExtentLength:15366881280
+[2024/03/06 13:56:14.084] Logical Drive:E  ===> PhyDrive:2
+[2024/03/06 13:56:14.092] LogicalDrive:\\.\F: PhyDrive:3 Num:1 Offset:16384 ExtentLength:15401467904
+[2024/03/06 13:56:14.100] Logical Drive:F  ===> PhyDrive:3
+[2024/03/06 13:56:14.108] LogicalDrive:\\.\Z: PhyDrive:1 Num:1 Offset:32256 ExtentLength:8597242368
+[2024/03/06 13:56:14.112] Logical Drive:Z  ===> PhyDrive:1
+[2024/03/06 13:56:14.128] Create file Handle:00000114 \\.\PhysicalDrive2 status:0
+[2024/03/06 13:56:14.220] Read MBR Ret:1 Size:512 code:183
+[2024/03/06 13:56:14.220] =========== Disk2 MBR Partition 1 ============
+[2024/03/06 13:56:14.232] PartTbl.Active = 0x80
+[2024/03/06 13:56:14.240] PartTbl.FsFlag = 0x7
+[2024/03/06 13:56:14.244] PartTbl.StartSectorId = 2048
+[2024/03/06 13:56:14.252] PartTbl.SectorCount = 30013440
+[2024/03/06 13:56:14.260] PartTbl.StartHead = 32
+[2024/03/06 13:56:14.268] PartTbl.StartSector = 33
+[2024/03/06 13:56:14.276] PartTbl.StartCylinder = 0
+[2024/03/06 13:56:14.284] PartTbl.EndHead = 96
+[2024/03/06 13:56:14.292] PartTbl.EndSector = 20
+[2024/03/06 13:56:14.300] PartTbl.EndCylinder = 844
+[2024/03/06 13:56:14.308] =========== Disk2 MBR Partition 2 ============
+[2024/03/06 13:56:14.316] PartTbl.Active = 0x0
+[2024/03/06 13:56:14.324] PartTbl.FsFlag = 0xef
+[2024/03/06 13:56:14.328] PartTbl.StartSectorId = 30015488
+[2024/03/06 13:56:14.336] PartTbl.SectorCount = 65536
+[2024/03/06 13:56:14.344] PartTbl.StartHead = 96
+[2024/03/06 13:56:14.352] PartTbl.StartSector = 21
+[2024/03/06 13:56:14.360] PartTbl.StartCylinder = 844
+[2024/03/06 13:56:14.368] PartTbl.EndHead = 116
+[2024/03/06 13:56:14.376] PartTbl.EndSector = 36
+[2024/03/06 13:56:14.384] PartTbl.EndCylinder = 848
+[2024/03/06 13:56:14.392] =========== Disk2 MBR Partition 3 ============
+[2024/03/06 13:56:14.400] PartTbl.Active = 0x0
+[2024/03/06 13:56:14.408] PartTbl.FsFlag = 0x0
+[2024/03/06 13:56:14.412] PartTbl.StartSectorId = 0
+[2024/03/06 13:56:14.420] PartTbl.SectorCount = 0
+[2024/03/06 13:56:14.432] PartTbl.StartHead = 0
+[2024/03/06 13:56:14.436] PartTbl.StartSector = 0
+[2024/03/06 13:56:14.444] PartTbl.StartCylinder = 0
+[2024/03/06 13:56:14.452] PartTbl.EndHead = 0
+[2024/03/06 13:56:14.460] PartTbl.EndSector = 0
+[2024/03/06 13:56:14.468] PartTbl.EndCylinder = 0
+[2024/03/06 13:56:14.476] =========== Disk2 MBR Partition 4 ============
+[2024/03/06 13:56:14.484] PartTbl.Active = 0x0
+[2024/03/06 13:56:14.492] PartTbl.FsFlag = 0x0
+[2024/03/06 13:56:14.500] PartTbl.StartSectorId = 0
+[2024/03/06 13:56:14.508] PartTbl.SectorCount = 0
+[2024/03/06 13:56:14.516] PartTbl.StartHead = 0
+[2024/03/06 13:56:14.524] PartTbl.StartSector = 0
+[2024/03/06 13:56:14.532] PartTbl.StartCylinder = 0
+[2024/03/06 13:56:14.540] PartTbl.EndHead = 0
+[2024/03/06 13:56:14.548] PartTbl.EndSector = 0
+[2024/03/06 13:56:14.552] PartTbl.EndCylinder = 0
+[2024/03/06 13:56:14.560] PhysicalDrive2 is ventoy disk
+[2024/03/06 13:56:14.568] QueryDosDeviceA success \Device\Harddisk2\DR2
+[2024/03/06 13:56:14.584] [0] CreateFileA \\.\PhysicalDrive2 code:0 00000134
+[2024/03/06 13:56:14.584] Parse FAT fs...
+[2024/03/06 13:56:14.612] attach media success...
+[2024/03/06 13:56:19.695] GetVentoyVerInPhyDrive rc=0...
+[2024/03/06 13:56:19.695] VentoyVerInPhyDrive 2 is <1.0.97>...
+[2024/03/06 13:56:19.812] PhyDrive 2 is Ventoy Disk ver:1.0.97 SecureBoot:1
+[2024/03/06 13:56:19.887] LogicalDrive:\\.\E: PhyDrive:2 Num:1 Offset:1048576 ExtentLength:15366881280
+[2024/03/06 13:56:19.887] Find the partition 1 logical drive is E:\
+[2024/03/06 13:56:19.895] GetVolumeClusterSize E:\ SUCCESS 64 512 32768
+[2024/03/06 13:56:19.903] GetVentoyFsNameInPhyDrive 2 E:\ <exFAT> <exFAT>
+[2024/03/06 13:56:19.924] Create file Handle:00000134 \\.\PhysicalDrive3 status:0
+[2024/03/06 13:56:19.924] Read MBR Ret:1 Size:512 code:183
+[2024/03/06 13:56:19.930] =========== Disk3 MBR Partition 1 ============
+[2024/03/06 13:56:19.938] PartTbl.Active = 0x0
+[2024/03/06 13:56:19.946] PartTbl.FsFlag = 0xc
+[2024/03/06 13:56:19.954] PartTbl.StartSectorId = 32
+[2024/03/06 13:56:19.962] PartTbl.SectorCount = 30080992
+[2024/03/06 13:56:19.970] PartTbl.StartHead = 0
+[2024/03/06 13:56:19.978] PartTbl.StartSector = 33
+[2024/03/06 13:56:19.986] PartTbl.StartCylinder = 0
+[2024/03/06 13:56:19.990] PartTbl.EndHead = 254
+[2024/03/06 13:56:19.998] PartTbl.EndSector = 63
+[2024/03/06 13:56:20.006] PartTbl.EndCylinder = 1023
+[2024/03/06 13:56:20.014] =========== Disk3 MBR Partition 2 ============
+[2024/03/06 13:56:20.022] PartTbl.Active = 0x0
+[2024/03/06 13:56:20.030] PartTbl.FsFlag = 0x0
+[2024/03/06 13:56:20.038] PartTbl.StartSectorId = 0
+[2024/03/06 13:56:20.046] PartTbl.SectorCount = 0
+[2024/03/06 13:56:20.054] PartTbl.StartHead = 0
+[2024/03/06 13:56:20.062] PartTbl.StartSector = 0
+[2024/03/06 13:56:20.070] PartTbl.StartCylinder = 0
+[2024/03/06 13:56:20.078] PartTbl.EndHead = 0
+[2024/03/06 13:56:20.086] PartTbl.EndSector = 0
+[2024/03/06 13:56:20.094] PartTbl.EndCylinder = 0
+[2024/03/06 13:56:20.102] =========== Disk3 MBR Partition 3 ============
+[2024/03/06 13:56:20.110] PartTbl.Active = 0x0
+[2024/03/06 13:56:20.118] PartTbl.FsFlag = 0x0
+[2024/03/06 13:56:20.126] PartTbl.StartSectorId = 0
+[2024/03/06 13:56:20.134] PartTbl.SectorCount = 0
+[2024/03/06 13:56:20.138] PartTbl.StartHead = 0
+[2024/03/06 13:56:20.146] PartTbl.StartSector = 0
+[2024/03/06 13:56:20.154] PartTbl.StartCylinder = 0
+[2024/03/06 13:56:20.162] PartTbl.EndHead = 0
+[2024/03/06 13:56:20.170] PartTbl.EndSector = 0
+[2024/03/06 13:56:20.178] PartTbl.EndCylinder = 0
+[2024/03/06 13:56:20.186] =========== Disk3 MBR Partition 4 ============
+[2024/03/06 13:56:20.194] PartTbl.Active = 0x0
+[2024/03/06 13:56:20.202] PartTbl.FsFlag = 0x0
+[2024/03/06 13:56:20.210] PartTbl.StartSectorId = 0
+[2024/03/06 13:56:20.218] PartTbl.SectorCount = 0
+[2024/03/06 13:56:20.222] PartTbl.StartHead = 0
+[2024/03/06 13:56:20.230] PartTbl.StartSector = 0
+[2024/03/06 13:56:20.238] PartTbl.StartCylinder = 0
+[2024/03/06 13:56:20.246] PartTbl.EndHead = 0
+[2024/03/06 13:56:20.254] PartTbl.EndSector = 0
+[2024/03/06 13:56:20.262] PartTbl.EndCylinder = 0
+[2024/03/06 13:56:20.270] Part1 not match 32
+[2024/03/06 13:56:20.278] < KIOXIA-EXCERIA SATA SSD> is filtered for not USB type.
+[2024/03/06 13:56:20.286] <ieung Ultra RAMDisk> is filtered for not USB type.
+[2024/03/06 13:56:20.331] Load languages from json file ...
+[2024/03/06 13:56:20.338] language json file len:275850 json parse:0
+[2024/03/06 13:56:20.338] Total 51 languages ...
+[2024/03/06 13:56:20.424] Combox select change, update secure boot option: 1 1
+[2024/03/06 13:56:20.463] Courier New font <C:\Windows\Fonts\couri.ttf> exist OK.
+[2024/03/06 13:56:20.463] system_dir=<C:\Windows\system32>
+[2024/03/06 13:56:20.475] sysnative_dir=<C:\Windows\Sysnative>
+[2024/03/06 13:56:20.499] LoadLibrary shell32.dll.mui SUCCESS
+[2024/03/06 13:56:20.499] SetAlertPromptHook SUCCESS
+[2024/03/06 13:56:23.815] Not ventoy disk, set secure boot option
+[2024/03/06 13:56:25.183] Combox select change, update secure boot option: 1 1

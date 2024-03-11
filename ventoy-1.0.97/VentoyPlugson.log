@@ -1,0 +1,284 @@
+[2024/03/02 18:52:05] ====================== Ventoy Plugson =========================
+[2024/03/02 18:52:05] Current Directory <D:\Ventoy\ventoy-1.0.97>
+[2024/03/02 18:52:05] Exe file path <D:\Ventoy\ventoy-1.0.97\VentoyPlugson.exe>
+[2024/03/02 18:52:05] Current directory check OK.
+[2024/03/02 18:52:05] ===============================================
+[2024/03/02 18:52:05] ========= Ventoy Plugson 127.0.0.1:24681 =========
+[2024/03/02 18:52:05] ===============================================
+[2024/03/02 18:52:05] ventoy disk init ...
+[2024/03/02 18:52:05] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/02 18:52:05] C: is NOT ventoy disk
+[2024/03/02 18:52:05] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/02 18:52:05] D: is NOT ventoy disk
+[2024/03/02 18:52:05] Partition offset is NOT 1MB. This is NOT ventoy image partition (0)
+[2024/03/02 18:52:05] E: is NOT ventoy disk
+[2024/03/02 18:52:06] Invalid MBR Code 0
+[2024/03/02 18:52:06] GetVentoyVersion failed 183
+[2024/03/02 18:52:06] F: is NOT ventoy disk
+[2024/03/02 18:52:06] Partition offset is NOT 1MB. This is NOT ventoy image partition (52923478016)
+[2024/03/02 18:52:06] I: is NOT ventoy disk
+[2024/03/02 18:52:06] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTSfailed 1
+[2024/03/02 18:52:06] GetPhyDriveByLogicalDrive failed -1 0
+[2024/03/02 18:52:06] U: is NOT ventoy disk
+[2024/03/02 18:52:06] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/02 18:52:06] Z: is NOT ventoy disk
+[2024/03/02 18:52:06] xzlen:1017836 rawdata size:3594240
+[2024/03/02 18:52:06] Plugson buildtime 20230623 19:05:00
+[2024/03/02 18:52:06] Total extract 129 files from tar file.
+[2024/03/02 18:52:12] ventoy disk exit ...
+[2024/03/02 19:00:56] ====================== Ventoy Plugson =========================
+[2024/03/02 19:00:56] Current Directory <D:\Ventoy\ventoy-1.0.97>
+[2024/03/02 19:00:56] Exe file path <D:\Ventoy\ventoy-1.0.97\VentoyPlugson.exe>
+[2024/03/02 19:00:56] Current directory check OK.
+[2024/03/02 19:00:56] ===============================================
+[2024/03/02 19:00:56] ========= Ventoy Plugson 127.0.0.1:24681 =========
+[2024/03/02 19:00:56] ===============================================
+[2024/03/02 19:00:56] ventoy disk init ...
+[2024/03/02 19:00:56] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/02 19:00:56] C: is NOT ventoy disk
+[2024/03/02 19:00:56] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/02 19:00:56] D: is NOT ventoy disk
+[2024/03/02 19:00:56] Partition offset is NOT 1MB. This is NOT ventoy image partition (0)
+[2024/03/02 19:00:56] E: is NOT ventoy disk
+[2024/03/02 19:00:56] Invalid MBR Code 0
+[2024/03/02 19:00:56] GetVentoyVersion failed 183
+[2024/03/02 19:00:56] F: is NOT ventoy disk
+[2024/03/02 19:00:56] Partition offset is NOT 1MB. This is NOT ventoy image partition (52923478016)
+[2024/03/02 19:00:56] I: is NOT ventoy disk
+[2024/03/02 19:00:56] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTSfailed 1
+[2024/03/02 19:00:56] GetPhyDriveByLogicalDrive failed -1 0
+[2024/03/02 19:00:56] U: is NOT ventoy disk
+[2024/03/02 19:00:56] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/02 19:00:56] Z: is NOT ventoy disk
+[2024/03/02 19:00:56] xzlen:1017836 rawdata size:3594240
+[2024/03/02 19:00:56] Plugson buildtime 20230623 19:05:00
+[2024/03/02 19:00:56] Total extract 129 files from tar file.
+[2024/03/02 19:01:01] ventoy disk exit ...
+[2024/03/02 19:01:01] ventoy disk init ...
+[2024/03/02 19:01:01] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/02 19:01:01] C: is NOT ventoy disk
+[2024/03/02 19:01:01] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/02 19:01:01] D: is NOT ventoy disk
+[2024/03/02 19:01:01] Partition offset is NOT 1MB. This is NOT ventoy image partition (0)
+[2024/03/02 19:01:01] E: is NOT ventoy disk
+[2024/03/02 19:01:01] Invalid MBR Code 0
+[2024/03/02 19:01:01] GetVentoyVersion failed 183
+[2024/03/02 19:01:01] F: is NOT ventoy disk
+[2024/03/02 19:01:01] Partition offset is NOT 1MB. This is NOT ventoy image partition (52923478016)
+[2024/03/02 19:01:01] I: is NOT ventoy disk
+[2024/03/02 19:01:01] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTSfailed 1
+[2024/03/02 19:01:01] GetPhyDriveByLogicalDrive failed -1 0
+[2024/03/02 19:01:01] U: is NOT ventoy disk
+[2024/03/02 19:01:01] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/02 19:01:01] Z: is NOT ventoy disk
+[2024/03/02 19:03:17] ventoy disk exit ...
+[2024/03/02 19:03:17] ventoy disk init ...
+[2024/03/02 19:03:17] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/02 19:03:17] C: is NOT ventoy disk
+[2024/03/02 19:03:17] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/02 19:03:17] D: is NOT ventoy disk
+[2024/03/02 19:03:17] Partition offset is NOT 1MB. This is NOT ventoy image partition (0)
+[2024/03/02 19:03:17] E: is NOT ventoy disk
+[2024/03/02 19:03:17] Partition offset is NOT 1MB. This is NOT ventoy image partition (32768)
+[2024/03/02 19:03:17] F: is NOT ventoy disk
+[2024/03/02 19:03:17] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/02 19:03:17] Z: is NOT ventoy disk
+[2024/03/02 19:03:24] ventoy disk exit ...
+[2024/03/02 19:03:24] ventoy disk init ...
+[2024/03/02 19:03:24] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/02 19:03:24] C: is NOT ventoy disk
+[2024/03/02 19:03:24] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/02 19:03:24] D: is NOT ventoy disk
+[2024/03/02 19:03:24] Partition offset is NOT 1MB. This is NOT ventoy image partition (0)
+[2024/03/02 19:03:24] E: is NOT ventoy disk
+[2024/03/02 19:03:24] Partition offset is NOT 1MB. This is NOT ventoy image partition (32768)
+[2024/03/02 19:03:24] F: is NOT ventoy disk
+[2024/03/02 19:03:24] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/02 19:03:24] Z: is NOT ventoy disk
+[2024/03/02 19:03:26] ventoy disk exit ...
+[2024/03/02 19:03:26] ventoy disk init ...
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/02 19:03:26] C: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/02 19:03:26] D: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (0)
+[2024/03/02 19:03:26] E: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (32768)
+[2024/03/02 19:03:26] F: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/02 19:03:26] Z: is NOT ventoy disk
+[2024/03/02 19:03:26] ventoy disk exit ...
+[2024/03/02 19:03:26] ventoy disk init ...
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/02 19:03:26] C: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/02 19:03:26] D: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (0)
+[2024/03/02 19:03:26] E: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (32768)
+[2024/03/02 19:03:26] F: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/02 19:03:26] Z: is NOT ventoy disk
+[2024/03/02 19:03:26] ventoy disk exit ...
+[2024/03/02 19:03:26] ventoy disk init ...
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/02 19:03:26] C: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/02 19:03:26] D: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (0)
+[2024/03/02 19:03:26] E: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (32768)
+[2024/03/02 19:03:26] F: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/02 19:03:26] Z: is NOT ventoy disk
+[2024/03/02 19:03:26] ventoy disk exit ...
+[2024/03/02 19:03:26] ventoy disk init ...
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/02 19:03:26] C: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/02 19:03:26] D: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (0)
+[2024/03/02 19:03:26] E: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (32768)
+[2024/03/02 19:03:26] F: is NOT ventoy disk
+[2024/03/02 19:03:26] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/02 19:03:26] Z: is NOT ventoy disk
+[2024/03/02 19:03:28] ventoy disk exit ...
+[2024/03/02 19:03:31] ====================== Ventoy Plugson =========================
+[2024/03/02 19:03:31] Current Directory <D:\Ventoy\ventoy-1.0.97>
+[2024/03/02 19:03:31] Exe file path <D:\Ventoy\ventoy-1.0.97\VentoyPlugson.exe>
+[2024/03/02 19:03:31] Current directory check OK.
+[2024/03/02 19:03:31] ===============================================
+[2024/03/02 19:03:31] ========= Ventoy Plugson 127.0.0.1:24681 =========
+[2024/03/02 19:03:31] ===============================================
+[2024/03/02 19:03:31] ventoy disk init ...
+[2024/03/02 19:03:31] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/02 19:03:31] C: is NOT ventoy disk
+[2024/03/02 19:03:31] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/02 19:03:31] D: is NOT ventoy disk
+[2024/03/02 19:03:31] Partition offset is NOT 1MB. This is NOT ventoy image partition (0)
+[2024/03/02 19:03:31] E: is NOT ventoy disk
+[2024/03/02 19:03:31] Partition offset is NOT 1MB. This is NOT ventoy image partition (32768)
+[2024/03/02 19:03:31] F: is NOT ventoy disk
+[2024/03/02 19:03:31] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/02 19:03:31] Z: is NOT ventoy disk
+[2024/03/02 19:03:31] xzlen:1017836 rawdata size:3594240
+[2024/03/02 19:03:31] Plugson buildtime 20230623 19:05:00
+[2024/03/02 19:03:31] Total extract 129 files from tar file.
+[2024/03/02 19:03:33] ventoy disk exit ...
+[2024/03/02 19:03:33] ventoy disk init ...
+[2024/03/02 19:03:33] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/02 19:03:33] C: is NOT ventoy disk
+[2024/03/02 19:03:33] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/02 19:03:33] D: is NOT ventoy disk
+[2024/03/02 19:03:33] Partition offset is NOT 1MB. This is NOT ventoy image partition (0)
+[2024/03/02 19:03:33] E: is NOT ventoy disk
+[2024/03/02 19:03:33] Partition offset is NOT 1MB. This is NOT ventoy image partition (32768)
+[2024/03/02 19:03:33] F: is NOT ventoy disk
+[2024/03/02 19:03:33] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/02 19:03:33] Z: is NOT ventoy disk
+[2024/03/02 19:03:35] ventoy disk exit ...
+[2024/03/02 19:04:11] ====================== Ventoy Plugson =========================
+[2024/03/02 19:04:11] Current Directory <D:\Ventoy\ventoy-1.0.97>
+[2024/03/02 19:04:11] Exe file path <D:\Ventoy\ventoy-1.0.97\VentoyPlugson.exe>
+[2024/03/02 19:04:11] Current directory check OK.
+[2024/03/02 19:04:11] ===============================================
+[2024/03/02 19:04:11] ========= Ventoy Plugson 127.0.0.1:24681 =========
+[2024/03/02 19:04:11] ===============================================
+[2024/03/02 19:04:11] ventoy disk init ...
+[2024/03/02 19:04:11] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/02 19:04:11] C: is NOT ventoy disk
+[2024/03/02 19:04:11] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/02 19:04:11] D: is NOT ventoy disk
+[2024/03/02 19:04:11] Partition offset is NOT 1MB. This is NOT ventoy image partition (0)
+[2024/03/02 19:04:11] E: is NOT ventoy disk
+[2024/03/02 19:04:11] Partition offset is NOT 1MB. This is NOT ventoy image partition (32768)
+[2024/03/02 19:04:11] F: is NOT ventoy disk
+[2024/03/02 19:04:11] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/02 19:04:11] Z: is NOT ventoy disk
+[2024/03/02 19:04:11] xzlen:1017836 rawdata size:3594240
+[2024/03/02 19:04:11] Plugson buildtime 20230623 19:05:00
+[2024/03/02 19:04:11] Total extract 129 files from tar file.
+[2024/03/02 19:04:47] ventoy disk exit ...
+[2024/03/02 19:04:47] ventoy disk init ...
+[2024/03/02 19:04:47] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/02 19:04:47] C: is NOT ventoy disk
+[2024/03/02 19:04:47] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/02 19:04:47] D: is NOT ventoy disk
+[2024/03/02 19:04:47] Partition offset is NOT 1MB. This is NOT ventoy image partition (0)
+[2024/03/02 19:04:47] E: is NOT ventoy disk
+[2024/03/02 19:04:47] Partition offset is NOT 1MB. This is NOT ventoy image partition (32768)
+[2024/03/02 19:04:47] F: is NOT ventoy disk
+[2024/03/02 19:04:47] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/02 19:04:47] Z: is NOT ventoy disk
+[2024/03/02 19:04:51] ventoy disk exit ...
+[2024/03/06 13:56:44] ====================== Ventoy Plugson =========================
+[2024/03/06 13:56:44] Current Directory <D:\Sys_Ventoy\ventoy-1.0.97>
+[2024/03/06 13:56:44] Exe file path <D:\Sys_Ventoy\ventoy-1.0.97\VentoyPlugson.exe>
+[2024/03/06 13:56:44] Current directory check OK.
+[2024/03/06 13:56:44] ===============================================
+[2024/03/06 13:56:44] ========= Ventoy Plugson 127.0.0.1:24681 =========
+[2024/03/06 13:56:44] ===============================================
+[2024/03/06 13:56:44] ventoy disk init ...
+[2024/03/06 13:56:44] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/06 13:56:44] C: is NOT ventoy disk
+[2024/03/06 13:56:44] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/06 13:56:44] D: is NOT ventoy disk
+[2024/03/06 13:56:53] E: is ventoy disk
+[2024/03/06 13:56:53] Partition offset is NOT 1MB. This is NOT ventoy image partition (16384)
+[2024/03/06 13:56:53] F: is NOT ventoy disk
+[2024/03/06 13:56:53] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/06 13:56:53] Z: is NOT ventoy disk
+[2024/03/06 13:56:53] xzlen:1017836 rawdata size:3594240
+[2024/03/06 13:56:53] Plugson buildtime 20230623 19:05:00
+[2024/03/06 13:56:53] Total extract 129 files from tar file.
+[2024/03/06 13:57:12] ventoy disk exit ...
+[2024/03/06 13:57:12] ventoy disk init ...
+[2024/03/06 13:57:12] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/06 13:57:12] C: is NOT ventoy disk
+[2024/03/06 13:57:12] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/06 13:57:12] D: is NOT ventoy disk
+[2024/03/06 13:57:21] E: is ventoy disk
+[2024/03/06 13:57:21] Partition offset is NOT 1MB. This is NOT ventoy image partition (16384)
+[2024/03/06 13:57:21] F: is NOT ventoy disk
+[2024/03/06 13:57:21] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/06 13:57:21] Z: is NOT ventoy disk
+[2024/03/06 13:57:22] ventoy disk exit ...
+[2024/03/06 13:57:22] ventoy disk init ...
+[2024/03/06 13:57:22] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/06 13:57:22] C: is NOT ventoy disk
+[2024/03/06 13:57:22] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/06 13:57:22] D: is NOT ventoy disk
+[2024/03/06 13:57:32] ====================== Ventoy Plugson =========================
+[2024/03/06 13:57:32] Current Directory <D:\Sys_Ventoy\ventoy-1.0.97>
+[2024/03/06 13:57:32] Exe file path <D:\Sys_Ventoy\ventoy-1.0.97\VentoyPlugson.exe>
+[2024/03/06 13:57:32] Current directory check OK.
+[2024/03/06 13:57:32] ===============================================
+[2024/03/06 13:57:32] ========= Ventoy Plugson 127.0.0.1:24681 =========
+[2024/03/06 13:57:32] ===============================================
+[2024/03/06 13:57:32] ventoy disk init ...
+[2024/03/06 13:57:32] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/06 13:57:32] C: is NOT ventoy disk
+[2024/03/06 13:57:32] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/06 13:57:32] D: is NOT ventoy disk
+[2024/03/06 13:57:42] E: is ventoy disk
+[2024/03/06 13:57:42] Partition offset is NOT 1MB. This is NOT ventoy image partition (16384)
+[2024/03/06 13:57:42] F: is NOT ventoy disk
+[2024/03/06 13:57:42] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/06 13:57:42] Z: is NOT ventoy disk
+[2024/03/06 13:57:42] xzlen:1017836 rawdata size:3594240
+[2024/03/06 13:57:42] Plugson buildtime 20230623 19:05:00
+[2024/03/06 13:57:42] Total extract 129 files from tar file.
+[2024/03/06 13:57:51] ventoy disk exit ...
+[2024/03/06 13:57:51] ventoy disk init ...
+[2024/03/06 13:57:51] Partition offset is NOT 1MB. This is NOT ventoy image partition (676331520)
+[2024/03/06 13:57:51] C: is NOT ventoy disk
+[2024/03/06 13:57:51] Partition offset is NOT 1MB. This is NOT ventoy image partition (129533739008)
+[2024/03/06 13:57:51] D: is NOT ventoy disk
+[2024/03/06 13:58:01] E: is ventoy disk
+[2024/03/06 13:58:01] Partition offset is NOT 1MB. This is NOT ventoy image partition (16384)
+[2024/03/06 13:58:01] F: is NOT ventoy disk
+[2024/03/06 13:58:01] Partition offset is NOT 1MB. This is NOT ventoy image partition (32256)
+[2024/03/06 13:58:01] Z: is NOT ventoy disk
+[2024/03/06 13:59:06] VentoyStartService ...
+[2024/03/06 13:59:06] Start service at E: USB SanDisk 3.2Gen1 1.0.97 ...
